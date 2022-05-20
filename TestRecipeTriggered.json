@@ -1,0 +1,72 @@
+{
+	"NoOfLayers": "3",
+	"Layer1": [
+		{
+			"RefarctiveIndexLayer1": "3.7",
+			"ThicknessRangeMinLayer1": "500",
+			"ThicknessRangeMaxLayer1": "300"
+		}
+	],
+	"Layer2": [
+		{
+			"RefarctiveIndexLayer2": "1.5",
+			"ThicknessRangeMinLayer2": "50",
+			"ThicknessRangeMaxLayer2": "30"
+		}
+	],
+	"Layer3": [
+		{
+			"RefarctiveIndexLayer3": "3.5",
+			"ThicknessRangeMinLayer3": "780",
+			"ThicknessRangeMaxLayer3": "750"
+		}
+	],
+	"ITDetails": [
+		{
+			"MeasuringRate": "10000",
+			"ExposureMode": "Auto",
+			"LampIntensity": "",
+			"ExposureRate": "29",
+			"DutyCycle": "",
+			"NoOfPeak": "6",
+			"AvgSample": "1",
+			"SensorType": "IT"
+		}
+	],
+	"DPSDetails": [
+		{
+			"MeasuringRate": "10000",
+			"ExposureMode": "Auto",
+			"LampIntensity": "70",
+			"ExposureRate": "80",
+			"DutyCycle": "3",
+			"NoOfPeak": "2",
+			"AvgSample": "1",
+			"SensorType": "IT"
+		}
+	],
+	"RasterStartPositionX": "85",
+	"RasterStartPositionY": "45",
+	"RasterStopPositionX": "230",
+	"RasterStopPositionY": "165",
+	"TotalVelocityX": "50",
+	"TotalVelocityY": "50",
+	"YPitch": "0.1",
+	"DataPointResolution": "0.01",
+	"MeasurableParamaters": {
+		"MPCareerThickness": "Checked",
+		"MPDieLevelWarpage": null,
+		"MPDieShift": null,
+		"MPUnderfillThickness": "Checked",
+		"MPDieSize": null,
+		"MPFilmThickness": "Checked",
+		"MPDieConfiguration": null,
+		"MPVoidDetection": "Checked",
+		"MPDieCount": null,
+		"MPInterDieGap": null,
+		"MPWarpageProfile": null,
+		"MPBumpDetection": "Checked"
+	},
+	"SensorType": "IT",
+	"Description": ""
+}
